@@ -1,0 +1,7 @@
+C:\Users\kolya\OneDrive\documents\visual studio 2015\Projects\Parsing\CoreParser\bin\Debug\CoreParser.dll
+C:\Users\kolya\OneDrive\documents\visual studio 2015\Projects\Parsing\CoreParser\bin\Debug\CoreParser.pdb
+C:\Users\kolya\OneDrive\documents\visual studio 2015\Projects\Parsing\CoreParser\bin\Debug\AngleSharp.dll
+C:\Users\kolya\OneDrive\documents\visual studio 2015\Projects\Parsing\CoreParser\bin\Debug\AngleSharp.xml
+C:\Users\kolya\OneDrive\documents\visual studio 2015\Projects\Parsing\CoreParser\obj\Debug\CoreParser.csprojResolveAssemblyReference.cache
+C:\Users\kolya\OneDrive\documents\visual studio 2015\Projects\Parsing\CoreParser\obj\Debug\CoreParser.dll
+C:\Users\kolya\OneDrive\documents\visual studio 2015\Projects\Parsing\CoreParser\obj\Debug\CoreParser.pdb

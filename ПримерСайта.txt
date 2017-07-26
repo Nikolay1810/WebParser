@@ -1,0 +1,10 @@
+
+Пример ввода данных
+
+http://allo.ua/ru/products/mobile/proizvoditel-xiaomi
+
+li.item
+a.product-name
+a.product-image
+span.price-sym-6
+div.attr-content
